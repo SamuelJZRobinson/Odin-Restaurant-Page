@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/SamuelJZRobinson/Odin-Restaurant-Page/issues"
   },
-  "homepage": "https://github.com/SamuelJZRobinson/Odin-Restaurant-Page#readme",
+  "homepage": "https://github.com/SamuelJZRobinson/Odin-Restaurant-Page/",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-loader": "^5.1.0",
