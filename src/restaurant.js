@@ -7,7 +7,7 @@ export const createRestaurantHomePage = () => {
   IMAGE.src = restaurantImage;
   IMAGE.height = "400";
   CONTENT.appendChild(IMAGE);
-
+  
   const HEADER = document.createElement("h1");
   HEADER.textContent = "Welcome to the restaurant!";
   CONTENT.appendChild(HEADER);
