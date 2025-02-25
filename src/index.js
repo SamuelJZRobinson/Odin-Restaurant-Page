@@ -1,9 +1,3 @@
-import "./styles.css";
-import testImage from "./assets/test.png";
+import { initialLoad } from "./pageLoad";
 
-const image = document.createElement("img");
-image.src = testImage;
-
-document.body.appendChild(image);
-
-console.log("Hi");
+initialLoad();
