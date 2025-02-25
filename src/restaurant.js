@@ -1,6 +1,6 @@
 import restaurantImage from "./assets/restaurant.jpg";
 
-export const createRestaurantHomePage = () => {
+export const createHomePage = () => {
   const CONTENT = document.querySelector("#content");
 
   const IMAGE = document.createElement("img");
